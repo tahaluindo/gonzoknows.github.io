@@ -1,7 +1,7 @@
 ---
 title: My Top 3 VPN Choices
 date: 2023-01-29 05:00:00 -0800
-categories: [Top 3]
+categories: []
 tags: [mullvad, proton, vpn] #tags should always be lowercase
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: My Top 3 Cross-Platform Instant Messengers
 date: 2023-01-30 05:00:00 -0800
-categories: [Top 3]
+categories: []
 tags: [signal, encryption, security] #tags should always be lowercase
 ---
 
