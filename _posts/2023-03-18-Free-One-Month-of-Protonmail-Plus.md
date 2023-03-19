@@ -17,3 +17,25 @@ Proton Mail holds a very high reputation as they are not only rooted in Switzerl
 [Free One Month of Proton Mail Plus Click Here](https://pr.tn/ref/AWDACPD704Z0)
 
 The free exclusive promotional code is linked above. This post isn't a paid advertisement, but rather one of just sharing to display there are better products than mainstream email providers out there. Just cause your email provider that you use or maybe this is your first email, you're about to create is free doesn't mean it's something to trust. As free in the digital era means you are paying for your data. Having a secure and reliable email is the same as having a secure and reliable bank. Your email in today's day in age is your digital bank for all things including personal finance, social media, careers, and even government documents. So why wouldn't you want that stuff to be encrypted? I personally use this email since transitioning from Yahoo back in 2017, and it's been great. As I have mentioned previously, this isn't a paid review. As I have to pay for it with my own money. 
+
+### Proton Mail Plus Features
+Proton Mail Plus includes many features by default such as email encryption (OpenPGP), data security (zero-access encryption), account security (TOTP - two-factor authentication), and all the features listed below. 
+
+`Fun fact is Proton is one of the few email providers that still accepts cash by mail`
+
+Proton Mail:
+- 15 GB total storage
+- 10 email addresses
+- Unlimited messages
+- Support for 1 custom email domain
+
+Proton Calendar: 
+- 20 Calendars
+- Calendar sharing
+
+Proton Drive:
+- Automatic sync
+- Encrypted file sharing
+
+Proton VPN:
+- 1 medium-speed VPN connection
