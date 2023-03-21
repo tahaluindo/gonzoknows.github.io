@@ -21,7 +21,7 @@ If you dive into the core functionality of how these software programs work. You
 I have created a bypass that is quite unique as it's fully undetectable to all root level safe exam & lockdown browsers. It works on all operating systems including Windows, macOS & Linux! My bypass allows the full use of any desktop applications, including remote access to the machine that is locked down. You heard right, full remote access. I understand many individuals might not want to purchase this bypass from me as who would even want this, but I've had a surprising number of individuals reach out waiting for this post. As I know this isn't the traditional way of shopping, it's going to be the way. I do things as if you want it, you will get it cause it works every time.
 
 ### Bypass Proof 
-Funny enough, I thought I wouldn't have to add proof of my bypass, but I've added an picture and an GIF for those who want to see it in action. 
+Funny enough, I thought I wouldn't have to add proof of my bypass, but I've added a picture and an GIF for those who want to see it in action. 
 
 ![Bypass image proof](/assets/img/bypass%20safe%20exam%20and%20lockdown%20browser/proof.png)
 

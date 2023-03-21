@@ -19,7 +19,7 @@ In theory every user of zlibrary will now get access to their own personal domai
 
 ## How to access zlibrary 
 
-Accessing zlibrary is just as easy as it used to be, all a user has to do is navigate to their website singlelogin.me and sign up for an account. Once you have signed up for an account, you will receive a confirmation email to your email you have signed up with. After confirming the email, you will get access to zlibrary's massive collection of public domain books and more!
+Accessing zlibrary is just as easy as it used to be, all a user has to do is `navigate` to their website `singlelogin.me` and `sign up` for an `account`. Once you have signed up for an account, you will receive a confirmation email to your email you have signed up with. After confirming the email, you will get access to zlibrary's massive collection of public domain books and more!
 
 `Note - when signing up, your personal email isn't required. It's not one I recommend using anyway. To avoid using your personal email, you can use any temporary email service on the web by searching "temp email" or consider getting a membership with Simplelogin which I personally use` [Simplelogin](https://simplelogin.io?slref=jacobgonzales) - Receive and send emails anonymously. With email aliases, you can be anonymous online and protect your inbox against spams and phishing.
 
