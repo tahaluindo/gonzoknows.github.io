@@ -20,6 +20,11 @@ If you dive into the core functionality of how these software programs work. You
 ## My Bypass 
 I have created a bypass that is quite unique as it's fully undetectable to all root level safe exam & lockdown browsers. It works on all operating systems including Windows, macOS & Linux! My bypass allows the full use of any desktop applications, including remote access to the machine that is locked down. You heard right, full remote access. I understand many individuals might not want to purchase this bypass from me as who would even want this, but I've had a surprising number of individuals reach out waiting for this post. As I know this isn't the traditional way of shopping, it's going to be the way. I do things as if you want it, you will get it cause it works every time.
 
+### Bypass Proof 
+Funny enough, I thought I wouldn't have to add proof of my bypass, but I've added pictures and an GIF for those who want to see it in action. 
+
+![Bypass image proof](/assets/img/bypass%20safe%20exam%20and%20lockdown%20browser/proof.png)
+
 ### How to Purchase
 Purchasing is very simple for those willing to acquire. Once you have sent the necessary funds to my wallet address, simply send proof of purchase via [My Contact Link](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2F4dgDprEeyoZrmJCgU2GBv7zIIvjSg4Qt%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAxLm3lJtPPwoIE3e-4eS2348cbjMIaVqEqVLDUDz0NDc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion) then you will receive an e-book along with full customer support walking you though the process.
 
